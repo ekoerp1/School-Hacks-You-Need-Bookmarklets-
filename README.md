@@ -4,3 +4,5 @@ Zearn- You make a bookmark copy in the code then you press the bookmark which wi
 
 Blooket- You can take the code use inspect and enter this in console. Or you can add javascript: to the beginning and put it into a url of a bookmark.
 
+
+Dev Console- Opens a remake of the inspect menu sometimes cant work on websites because they blocked javascript.
