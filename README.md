@@ -14,4 +14,7 @@ Snake Game- It will add more menu options
 Skribble auto draw- you press the bookmarklet when you draw look up a image and drag it into the draw area 
 
 
+Yohoho.io Cheat- when executed through bookmark this code will make a side menu able to teleport you to be able to unlock everything and when you do that you can add coins and then buy then teleport to first map and destroy everyone.
+
+
 DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
