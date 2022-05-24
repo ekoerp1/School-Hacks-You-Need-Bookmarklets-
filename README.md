@@ -6,3 +6,12 @@ Blooket- You can take the code use inspect and enter this in console. Or you can
 
 
 Dev Console- Opens a remake of the inspect menu sometimes cant work on websites because they blocked javascript.
+
+
+Snake Game- It will add more menu options
+
+
+Skribble auto draw- you press the bookmarklet when you draw look up a image and drag it into the draw area 
+
+
+DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
