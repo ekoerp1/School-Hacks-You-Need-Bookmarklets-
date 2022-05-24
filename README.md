@@ -17,4 +17,8 @@ Skribble auto draw- you press the bookmarklet when you draw look up a image and 
 Yohoho.io Cheat- when executed through bookmark this code will make a side menu able to teleport you to be able to unlock everything and when you do that you can add coins and then buy then teleport to first map and destroy everyone.
 
 
+Auto clicker- auto clicks for you on the page put this bookmarklet script in and press it.
+
+
 DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
+
