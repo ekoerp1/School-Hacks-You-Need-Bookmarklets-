@@ -20,5 +20,8 @@ Yohoho.io Cheat- when executed through bookmark this code will make a side menu 
 Auto clicker- auto clicks for you on the page put this bookmarklet script in and press it.
 
 
+Wordle reveal- adds a bottom element that you can hover over and click which gives the word for the day.
+
+
 DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
 
