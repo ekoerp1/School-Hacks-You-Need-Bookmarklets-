@@ -2,7 +2,7 @@
 Zearn- You make a bookmark copy in the code then you press the bookmark which will refresh the page it will complete dependig on if it is open or not if it isnt press two times and it will work
 
 
-Blooket- You can take the code and put it into url of a bookmark then enjoy a full hack gui
+Blooket- Go to Minesraft2's repo they have very good hacks!!!
 
 Dev Console- Opens a remake of the inspect menu sometimes cant work on websites because they blocked javascript.
 
