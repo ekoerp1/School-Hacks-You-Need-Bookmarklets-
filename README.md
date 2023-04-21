@@ -1,7 +1,7 @@
 
 =======
 # School-Hacks-You-Need-Bookmarklets-
-Zearn- You make a bookmark copy in the code then you press the bookmark which will refresh the page it will complete dependig on if it is open or not if it isnt press two times and it will work
+Zearn- You make a bookmark copy in the code then you press the bookmark on the home page and press refresh this only works on the warm up not the tower of power or math chat.
 
 
 Blooket- Go to Minesraft2's repo they have very good hacks!!!
@@ -22,6 +22,8 @@ Auto clicker- auto clicks for you on the page put this bookmarklet script in and
 
 
 Wordle reveal- adds a bottom element that you can hover over and click which gives the word for the day.
+
+Make page look like google classroom- Make the tab cloak into google classroom
 
 
 DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
