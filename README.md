@@ -23,6 +23,8 @@ Auto clicker- auto clicks for you on the page put this bookmarklet script in and
 
 Wordle reveal- adds a bottom element that you can hover over and click which gives the word for the day.
 
+Edpuzzle Hack- Self explanatory press auto answer to auto answer and skip to skip 
+
 Make page look like google classroom- Make the tab cloak into google classroom
 
 
