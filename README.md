@@ -4,7 +4,7 @@
 Zearn- You make a bookmark copy in the code then you press the bookmark on the home page and press refresh this only works on the warm up not the tower of power or math chat.
 
 
-Blooket- Go to Minesraft2's repo they have very good hacks!!!
+Blooket- Use the bookmarklet for a cool hack menu! Press the category you want and the cheats to go with it.
 
 Dev Console- Opens a remake of the inspect menu sometimes cant work on websites because they blocked javascript.
 
