@@ -9,7 +9,7 @@ Blooket- Use the bookmarklet for a cool hack menu! Press the category you want a
 Dev Console- Opens a remake of the inspect menu sometimes cant work on websites because they blocked javascript.
 
 
-Snake Game- It will add more menu options
+Snake Game- It will add more menu options the current bookmark might not work since they moved to userscripts BUT they made a site https://googlesnakemods.com/ so you can play modded snake still
 
 
 Skribble auto draw- you press the bookmarklet when you draw look up a image and drag it into the draw area 
