@@ -29,5 +29,7 @@ Edpuzzle Hack- Self explanatory press auto answer to auto answer and skip to ski
 
 Make page look like google classroom- Make the tab cloak into google classroom
 
+Eruda dev console- bookmarklet to get a more indepth console
+
 
 DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
