@@ -31,5 +31,7 @@ Make page look like google classroom- Make the tab cloak into google classroom
 
 Eruda dev console- bookmarklet to get a more indepth console
 
+duolingo hack- execute and add the amount of xp you want added into the box its super op
+
 
 DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
