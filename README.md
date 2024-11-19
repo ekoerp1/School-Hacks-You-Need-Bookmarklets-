@@ -33,5 +33,7 @@ Eruda dev console- bookmarklet to get a more indepth console
 
 duolingo hack- execute and add the amount of xp you want added into the box its super op refresh after completion
 
+smashkarts.io ESP - Set camera settings to low and auto quality off and enable wide camera play around with making it lower quality and it should work on most maps
 
-DISCLAMER- this is a archive of my favorite bookmarklet FULL CREDIT to the owners.
+
+DISCLAMER- this is a archive of my favorite bookmarklets FULL CREDIT to the owners.
